@@ -1,0 +1,11 @@
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.csprojAssemblyReference.cache
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.csproj.CoreCompileInputs.cache
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.AssemblyInfoInputs.cache
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.AssemblyInfo.cs
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/bin/Debug/netcoreapp2.1/WeatherStation.deps.json
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/bin/Debug/netcoreapp2.1/WeatherStation.runtimeconfig.json
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/bin/Debug/netcoreapp2.1/WeatherStation.runtimeconfig.dev.json
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/bin/Debug/netcoreapp2.1/WeatherStation.dll
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/bin/Debug/netcoreapp2.1/WeatherStation.pdb
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.dll
+/Users/mfujinoki/Projects/DotNetCore/WeatherStation/obj/Debug/netcoreapp2.1/WeatherStation.pdb
