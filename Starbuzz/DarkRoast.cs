@@ -7,7 +7,7 @@ namespace Starbuzz
         {
             description = "Dark Roast Coffee";
         }
-        public double cost()
+        public override double cost()
         {
             return .99;
         }

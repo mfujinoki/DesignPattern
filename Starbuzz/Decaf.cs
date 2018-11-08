@@ -7,7 +7,7 @@ namespace Starbuzz
         {
             description = "Decaf Coffee";
         }
-        public double cost()
+        public override double cost()
         {
             return 1.05;
         }

@@ -1,0 +1,11 @@
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.csprojAssemblyReference.cache
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.csproj.CoreCompileInputs.cache
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.AssemblyInfoInputs.cache
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.AssemblyInfo.cs
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/bin/Debug/netcoreapp2.1/Starbuzz.deps.json
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/bin/Debug/netcoreapp2.1/Starbuzz.runtimeconfig.json
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/bin/Debug/netcoreapp2.1/Starbuzz.runtimeconfig.dev.json
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/bin/Debug/netcoreapp2.1/Starbuzz.dll
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/bin/Debug/netcoreapp2.1/Starbuzz.pdb
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.dll
+/Users/mfujinoki/Projects/DotNetCore/Starbuzz/obj/Debug/netcoreapp2.1/Starbuzz.pdb
