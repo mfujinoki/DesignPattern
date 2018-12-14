@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{725F7F2A-6EE6-4CE4-ACB9-7695A0022565}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaStore Status">
+    <Files>
+      <File FileName="PizzaTestDrive.cs" Line="6" Column="6" />
+      <File FileName="Pizza.cs" Line="29" Column="24" />
+      <File FileName="NYStyleCheesePizza.cs" Line="16" Column="1" />
+      <File FileName="NYStylePepperoniPizza.cs" Line="4" Column="45" />
+      <File FileName="NYStyleClamPizza.cs" Line="10" Column="2" />
+      <File FileName="NYStyleVeggiePizza.cs" Line="11" Column="1" />
+      <File FileName="ChicagoStylePepperoniPizza.cs" Line="8" Column="8" />
+      <File FileName="ChicagoStyleClamPizza.cs" Line="8" Column="10" />
+      <File FileName="ChicagoStyleVeggiePizza.cs" Line="4" Column="25" />
+      <File FileName="CaliforniaStyleCheesePizza.cs" Line="9" Column="6" />
+      <File FileName="CaliforniaStylePepperoniPizza.cs" Line="11" Column="1" />
+      <File FileName="CaliforniaStyleClamPizza.cs" Line="11" Column="1" />
+      <File FileName="CaliforniaStyleVeggiePizza.cs" Line="7" Column="10" />
+      <File FileName="PizzaStore Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
